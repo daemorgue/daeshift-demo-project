@@ -3,4 +3,8 @@
 # such as:
 #   - name: "site"
 #     url: "git@github.com:example/site.git"
-repos: []
+repos:
+  - name: "daeshift-demo-repo-01"
+    url: "https://github.com/daemorgue/daeshift-demo-repo-01.git"
+  - name: "daeshift-demo-repo-02"
+    url: "https://github.com/daemorgue/daeshift-demo-repo-02.git"
